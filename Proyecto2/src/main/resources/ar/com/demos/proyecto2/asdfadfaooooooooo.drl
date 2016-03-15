@@ -1,2 +1,8 @@
 package ar.com.demos.proyecto2;
 
+rule 'aasdfaasda'
+when
+    eval(true)
+then
+    System.println("sarasadasaaga!!!!!!!!!");
+end
