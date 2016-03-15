@@ -1,0 +1,9 @@
+package ar.com.demos.proyecto2;
+
+import java.lang.Number;
+
+rule "fdgafgsd"
+	dialect "mvel"
+	when
+	then
+end
